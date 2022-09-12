@@ -133,3 +133,155 @@ Received Import Request.
 Start importing Assets/Scenes/GameScene.unity using Guid(9fc0d4010bbf28b4594072e72b8655ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '682366d9821b0309fbf90d664b092be1') in 0.015771 seconds 
   Import took 0.018096 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 217.322028 seconds.
+  path: Assets/MiniGame
+  artifactKey: Guid(9b5e024c100564e9c9b48a4b8c7f1342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame using Guid(9b5e024c100564e9c9b48a4b8c7f1342) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0546f0d3adce10644de48033cd9fb26a') in 0.001966 seconds 
+  Import took 0.011979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.832549 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame
+  artifactKey: Guid(7515239d86bc84170acf80c078c46c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame using Guid(7515239d86bc84170acf80c078c46c58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93d8a06a8e8d3f3f891f9c5f9104f146') in 0.001096 seconds 
+  Import took 0.003738 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.052196 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models
+  artifactKey: Guid(022acf3545b4048319f3d81ad6a4869b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models using Guid(022acf3545b4048319f3d81ad6a4869b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '244598574df01ba2647b23bdc664f99e') in 0.001206 seconds 
+  Import took 0.004219 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.827356 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites
+  artifactKey: Guid(c9ecb0fe35785409fa3c6f677aea0e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites using Guid(c9ecb0fe35785409fa3c6f677aea0e56) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37105f6c98d258da425a5055bf554fb4') in 0.001130 seconds 
+  Import took 0.004142 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.915705 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Bowl.blend
+  artifactKey: Guid(67e5d1ded95594639ad2eff04dafaeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Bowl.blend using Guid(67e5d1ded95594639ad2eff04dafaeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c572cebded98b177b5ed0bbe8770a1f') in 1.203040 seconds 
+  Import took 1.205507 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000583 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Doritos.fbx
+  artifactKey: Guid(1e85aee97e4204d72b1bce590ac9e54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Doritos.fbx using Guid(1e85aee97e4204d72b1bce590ac9e54e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '143411095cc5524cfc45397dd635e300') in 0.423712 seconds 
+  Import took 0.425509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Cheese_Puff_Long.fbx
+  artifactKey: Guid(524c975463fd64c62a7982eff811024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Cheese_Puff_Long.fbx using Guid(524c975463fd64c62a7982eff811024a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5133453d29a83be828ff63605627b30') in 0.031218 seconds 
+  Import took 0.032940 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000215 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Water_Vacuum.fbx
+  artifactKey: Guid(7150b7e52dfc847299ba0ae99a44567a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Water_Vacuum.fbx using Guid(7150b7e52dfc847299ba0ae99a44567a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e9b4543b6f64d248c1928273a702f87') in 0.033270 seconds 
+  Import took 0.035047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Cushion.fbx
+  artifactKey: Guid(3f5dd3e5022fb4d01b466227baa6f7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Cushion.fbx using Guid(3f5dd3e5022fb4d01b466227baa6f7f4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ed985b103ba2b4b4adb0d3cb4f8e572') in 0.019104 seconds 
+  Import took 0.020846 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/HandHeld_Vacuum.fbx
+  artifactKey: Guid(3240f37f31f5b4d75a3c6c387252f7b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/HandHeld_Vacuum.fbx using Guid(3240f37f31f5b4d75a3c6c387252f7b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd193f93507c4cd048bee8925882a76b2') in 0.057528 seconds 
+  Import took 0.059301 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Bowl.blend
+  artifactKey: Guid(67e5d1ded95594639ad2eff04dafaeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Bowl.blend using Guid(67e5d1ded95594639ad2eff04dafaeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c572cebded98b177b5ed0bbe8770a1f') in 0.021272 seconds 
+  Import took 0.023039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Room.fbx
+  artifactKey: Guid(03f37106a030a0e47b5f67ef91c38cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Room.fbx using Guid(03f37106a030a0e47b5f67ef91c38cfe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb4a9c53d74a2faa1e0cd0d2ebc52f45') in 0.626690 seconds 
+  Import took 0.628998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Cheese_Puff_Sphere.fbx
+  artifactKey: Guid(e219cd23b882a4ff2a3ee5027196aa59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Models/Cheese_Puff_Sphere.fbx using Guid(e219cd23b882a4ff2a3ee5027196aa59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5ef40674111c64689d210c2b83de6d76') in 0.014930 seconds 
+  Import took 0.016865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.557094 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites/Dirt _2.png
+  artifactKey: Guid(48816878a562b4eb2b642154ca85c7f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites/Dirt _2.png using Guid(48816878a562b4eb2b642154ca85c7f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efc400cbd55d947f5760b12c6a7c5ab7') in 0.413160 seconds 
+  Import took 0.415689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites/Wood_Original.jpg
+  artifactKey: Guid(14495db573d3d4805b9e41c2e6c74847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites/Wood_Original.jpg using Guid(14495db573d3d4805b9e41c2e6c74847) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '09b53a7ce0c190f13c870ea3ec05e2ac') in 0.323363 seconds 
+  Import took 0.325014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites/FabricRope_Normal.jpg
+  artifactKey: Guid(42a84ec8d95cd4423b3842e9e036b9f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites/FabricRope_Normal.jpg using Guid(42a84ec8d95cd4423b3842e9e036b9f9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30df573d3743e6310532e2b43c0990b4') in 0.006924 seconds 
+  Import took 0.008709 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000210 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites/Wood_White.png
+  artifactKey: Guid(e34a16498e5cc4c59a474e96517ffeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites/Wood_White.png using Guid(e34a16498e5cc4c59a474e96517ffeae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '290992bfb35ac0d21ef7e6fb5b9bb258') in 0.006210 seconds 
+  Import took 0.008047 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites/Wall.png
+  artifactKey: Guid(a277397f21b095f4d82d31e04aa2f7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites/Wall.png using Guid(a277397f21b095f4d82d31e04aa2f7d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c13d2e7da103a717ee31f857c3b84a8b') in 0.005415 seconds 
+  Import took 0.007320 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000209 seconds.
+  path: Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites/Dirt_1.png
+  artifactKey: Guid(f500510026ea6462f9d42d8a11f885ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/MiniGame/CheesyPuff_Minigame/CheesyPuff_Sprites/Dirt_1.png using Guid(f500510026ea6462f9d42d8a11f885ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17c921d7484fd034241db95daaa39e4d') in 0.014280 seconds 
+  Import took 0.016092 seconds .
+
